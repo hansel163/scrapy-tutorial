@@ -2,6 +2,7 @@
 # @Time     : 2017/1/1 17:51
 # @Author   : woodenrobot
 
+# scrapy crawl douban_movie_top250 -o douban.csv
 
 from scrapy import cmdline
 
